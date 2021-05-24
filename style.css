@@ -364,6 +364,115 @@ font-size: 21px;
                 top: 55px;
                 left: 80px;}
 
+/*Media Queries*/
+
+
+  @media only screen and (max-width:600px)
+  {.home{height: 1555px;}
+.logo{margin-left: 98px;}
+.navbar{left:-88px;}
+header{width: 164%;}
+.banner{left: 80px;}
+ .ph{font-size: 166px;} 
+ .st{font-size: 167px;}
+ .para{left: 122px;
+font-size: 22px;}
+.btn{width: 151px;
+height: 45px;
+left: -8px;
+top: 88px;}
+.wrapper{top: 10px;
+left: 178px;}
+.home img{margin-left: 20px;
+top: 43px;}
+      .home2{width:112%;}
+   .we{ margin-left: 50px;}
+   .para2{width: 511px;
+left: 74px;}
+.home3{width: 649px;}
+.our{left: 139px;
+top: -324px;}
+.tour{height: 399px;
+left: 40px;
+top: -294px;}
+.tour2{height: 373px;
+top: -405px;
+left: 96px;}
+.box{left: 10px;}
+.para3{left: 274px;}
+.icons{left: 385px;}
+.home4{width: 112%;}
+.box2{top: 323px;
+left: 282px;}
+.home4 img{top: -206px;
+left: 148px;
+height: 506px;}
+.portrait{left:162px;}
+.home5{width: 113%;
+}
+.c-1{width: 295px;
+left: 216px;}
+.c-2{width: 295px;
+top: 1px;
+left: 217px;}
+.c-3{top: 46px;
+left: 219px;
+width: 295px;}
+.c-4{width: 295px;
+left: 215px;
+top: 109px;}
+
+.c-6{display: none;}
+
+.home5{height: 3019px;}
+.c-5 img{top: 227px;
+left: 138px;}
+
+.c-5 h3{
+    font-size: 39px;
+    top: 217px;
+    left: 69px;
+}
+
+.c-5 p{
+    top: 224px;
+    left: 148px;
+    width: 373px;
+}
+
+.btn3{left: -8px;
+top: 271px;
+height: 40px;
+width: 151px;}
+
+
+.CONTACT{left: 94px;
+top: 35px;}
+
+form{top: 47px;
+left: 145px;
+height: 448px;}
+  }
+
+
+  @media only screen and (max-width:420px){
+
+    header{width: 187%;}
+    .logo{margin-left: 13px;}
+    .navbar{left:-14px;}
+
+    .home2{width: 645px;
+        height: 812px;
+        
+    }
+    .home4{width: 174%;}
+    .home5{width: 168%;}
+    .CONTACT{left: 134px;
+    font-size: 85px;}}
+    
+
+
+
 
 
                     
